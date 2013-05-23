@@ -2,6 +2,13 @@
 
 Documentación genérica de **listme**
 
+# BD
+*   Gestores
+    *   Posgres
+    *   MySQL
+    *   **SQLite**
+
+
 # Repos
 
 ## .sqls
