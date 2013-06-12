@@ -3,12 +3,15 @@
 Documentación genérica de **listme**
 
 # BD
+
 *   Gestores relacionales
+
     *   Posgres
     *   MySQL
     *   **SQLite**
 
 *   No SQL
+
     *   MongoDB
     *   CouchDB
     *   Redis (trabaja en memoria)
@@ -22,7 +25,11 @@ Documentación genérica de **listme**
 *   sql envuelto en el lenguaje X
 *   crear como libreria de lenguaje X
 
-## Tipos
+## servidor web
+
+## cliente web
+
+# Tipos
 
 Definimos los tipos con **JSON Schema**
 
@@ -30,6 +37,3 @@ Definimos los tipos con **JSON Schema**
 *   [json-schema.org](http://json-schema.org/)
 *   [The David Walsh blog](http://davidwalsh.name/json-validation)
 
-## servidor web
-
-## cliente web
