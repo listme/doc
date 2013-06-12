@@ -1,0 +1,14 @@
+{
+  "name": "url type",
+  "properties": {
+    "type": {
+      "type":"string"
+    },
+    "tag": {
+      "type": "string"
+    },
+     "link": {
+      "type": "string"
+    }
+ }
+
