@@ -7,7 +7,7 @@
     "tag": {
       "type": "string"
     },
-     "link": {
+    "link": {
       "type": "string"
     }
  }
