@@ -1,0 +1,11 @@
+{
+  "name": "text type",
+  "properties": {
+    "type": {
+      "type": "string"
+    },
+    "data": {
+      "type": "string"
+    }
+  }
+}
