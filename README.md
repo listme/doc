@@ -2,23 +2,9 @@
 
 Documentación genérica de **listme**
 
-# BD
-
-*   Gestores relacionales
-
-    *   Posgres
-    *   MySQL
-    *   **SQLite**
-
-*   No SQL
-
-    *   MongoDB
-    *   CouchDB
-    *   Redis (trabaja en memoria)
-
 # Repos
 
-## .sqls
+## esquema
 
 ## model
 
