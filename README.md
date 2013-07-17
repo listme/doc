@@ -2,24 +2,20 @@
 
 Documentación genérica de **listme**
 
-# Repos
+# `./pizarra`
 
-## esquema
+Fotos de borradores en pizarra
 
-## model
+# `./tecnologias`
 
-*   sql envuelto en el lenguaje X
-*   crear como libreria de lenguaje X
+Debates sobre qué tecnologías usar
 
-## servidor web
+# `./tipos`
 
-## cliente web
-
-# Tipos
+Definición de tipos
 
 Definimos los tipos con **JSON Schema**
 
 *   [wikipedia](http://en.wikipedia.org/wiki/JSON#Schema)
 *   [json-schema.org](http://json-schema.org/)
 *   [The David Walsh blog](http://davidwalsh.name/json-validation)
-
