@@ -1,12 +1,24 @@
 # Repos
 
+## doc
+
+Documentation
+
 ## esquema
 
+Esquema de la BD
+
 ## model
+
+db model bindings
 
 *   sql envuelto en el lenguaje X
 *   crear como libreria de lenguaje X
 
-## servidor web
+## webclient
 
-## cliente web
+Cliente web
+
+## webserver
+
+Servidor web
