@@ -19,6 +19,12 @@ db model bindings
 
 Cliente web
 
+*   Gestión de listme (get, put, post, delete)
+
 ## webserver
 
 Servidor web
+
+## Draft
+
+*   Gestor de incidencias usando listme
